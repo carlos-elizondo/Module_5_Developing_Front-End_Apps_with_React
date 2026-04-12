@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import { Component } from "react";
 import "./ContentRating.css";
 
 class ContentRating extends Component {
